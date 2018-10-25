@@ -9,7 +9,7 @@ public class U {
 	public static void main(String[] args) 
 	{
 		System.out.println("main begin");
-		test(100);
+		test();
 		// TODO Auto-generated method stub
 
 	}
